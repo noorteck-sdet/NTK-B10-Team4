@@ -13,6 +13,8 @@ public class DemoDay3 {
 		System.out.println("Sammy");
 		
 		System.out.println("Cynthia");
+		
+		System.out.println("Mohammed");
 	}
 
 }
