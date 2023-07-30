@@ -8,5 +8,7 @@ public class DemoDay3 {
 		System.out.println("Khwaja Sediqi");
 		
 		System.out.println("This is my second practice");
+		
+		System.out.println("Sammy");
 	}
 }
