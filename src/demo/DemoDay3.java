@@ -18,6 +18,14 @@ public class DemoDay3 {
 		
 		System.out.println("Nahom....");
 		System.out.println("Rohullah");
+		
+	
+	}
+	
+	public static void add(int a , int b) {
+		System.out.println(a + b);
+		
+		String name = "Khwaja";
 	}
 
 }
