@@ -20,12 +20,16 @@ public class DemoDay3 {
 		System.out.println("Rohullah");
 		
 	
+		
+		System.out.println("Hello world");
 	}
 	
 	public static void add(int a , int b) {
 		System.out.println(a + b);
 		
 		String name = "Khwaja";
+		
+		
 	}
 
 }
