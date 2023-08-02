@@ -28,6 +28,8 @@ public class DemoDay3 {
 		System.out.println(a + b);
 		
 		String name = "Khwaja";
+		
+		
 	}
 
 }
