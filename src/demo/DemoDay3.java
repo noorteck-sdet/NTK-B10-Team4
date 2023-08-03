@@ -35,6 +35,8 @@ public class DemoDay3 {
 		System.out.println("Adding code to make Mohammed happy");
 		System.out.println("Adding code to make Noah happy");
 		
+		System.out.println("Hi guys this is Khwaja");
+		
 	}
 
 }
