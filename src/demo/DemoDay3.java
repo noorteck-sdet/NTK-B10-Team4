@@ -29,9 +29,18 @@ public class DemoDay3 {
 		
 		String name = "Khwaja";	
 		
+
 		System.out.println("Team 4 always doing great");
 		System.out.println("Team 4 always doing great");
 		System.out.println("Team 4 always doing great");
+
+		System.out.println("Adding code to make Khwaja happy");
+		System.out.println("Adding code to make Rohullah happy");
+		System.out.println("Adding code to make Cynthia happy");
+		System.out.println("Adding code to make Mohammed happy");
+		System.out.println("Adding code to make Noah happy");
+		
+
 	}
 	
 }
