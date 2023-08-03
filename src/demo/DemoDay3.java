@@ -30,9 +30,31 @@ public class DemoDay3 {
 	public static void add(int a , int b) {
 		System.out.println(a + b);
 		
-		String name = "Khwaja";
+		String name = "Khwaja";	
 		
-		System.out.println("Mohammed Making Conflict");
-	}
 
+		System.out.println("Mohammed Making Conflict");
+	
+
+		System.out.println("Team 4 Conflict Pro's......!!!!");
+
+
+		System.out.println("Team 4 always doing great");
+		System.out.println("Team 4 always doing great");
+		System.out.println("Team 4 always doing great");
+
+		System.out.println("Adding code to make Khwaja happy");
+		System.out.println("Adding code to make Rohullah happy");
+		System.out.println("Adding code to make Cynthia happy");
+		System.out.println("Adding code to make Mohammed happy");
+		System.out.println("Adding code to make Noah happy");
+		
+
+		System.out.println("Hi guys this is Khwaja");
+		
+
+
+
+	}
+	
 }
