@@ -28,6 +28,10 @@ public class DemoDay3 {
 		System.out.println(a + b);
 		
 		String name = "Khwaja";
+		System.out.println("Hey there, we are team 4");
+		System.out.println("Another day in paradise");
+		System.out.println("Hey there, we are team 4");
+		System.out.println("Another day in paradise");		
 		
 		
 	}
