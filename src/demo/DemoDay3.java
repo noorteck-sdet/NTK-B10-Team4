@@ -27,9 +27,11 @@ public class DemoDay3 {
 	public static void add(int a , int b) {
 		System.out.println(a + b);
 		
-		String name = "Khwaja";
+		String name = "Khwaja";	
 		
-		
+		System.out.println("Team 4 always doing great");
+		System.out.println("Team 4 always doing great");
+		System.out.println("Team 4 always doing great");
 	}
-
+	
 }
