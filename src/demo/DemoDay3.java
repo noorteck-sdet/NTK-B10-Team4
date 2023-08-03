@@ -33,6 +33,11 @@ public class DemoDay3 {
 		System.out.println("Hey there, we are team 4");
 		System.out.println("Another day in paradise");		
 		
+		System.out.println("Adding code to make Khwaja happy");
+		System.out.println("Adding code to make Rohullah happy");
+		System.out.println("Adding code to make Cynthia happy");
+		System.out.println("Adding code to make Mohammed happy");
+		System.out.println("Adding code to make Noah happy");
 		
 	}
 
