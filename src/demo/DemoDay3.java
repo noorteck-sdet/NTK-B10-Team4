@@ -22,6 +22,9 @@ public class DemoDay3 {
 	
 		
 		System.out.println("Hello world");
+		
+		
+		
 	}
 	
 	public static void add(int a , int b) {
@@ -29,7 +32,7 @@ public class DemoDay3 {
 		
 		String name = "Khwaja";
 		
-		
+		System.out.println("Mohammed Making Conflict");
 	}
 
 }
