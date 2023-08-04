@@ -44,7 +44,9 @@ public class DemoDay3 {
 		System.out.println("Lets make this much more difficult, shall we?");
 		
 		System.out.println("Making conflict2...");
-		
+		System.out.println("Making conflict2...");
+		System.out.println("Making conflict2...");
+		System.out.println("Making conflict2...");
 	}
 
 }
