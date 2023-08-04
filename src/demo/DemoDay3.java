@@ -29,12 +29,23 @@ public class DemoDay3 {
 		
 		String name = "Khwaja";
 		
+
+		System.out.println("Making conflict...");
+
 		
 		System.out.println("Adding code to make Khwaja happy");
 		System.out.println("Adding code to make Rohullah happy");
 		System.out.println("Adding code to make Cynthia happy");
 		System.out.println("Adding code to make Mohammed happy");
 		System.out.println("Adding code to make Noah happy");
+	}
+	public static void subtract(int a, int b) {
+	
+		System.out.println("Lets make this more difficult, shall we?");
+		
+		System.out.println("Lets make this much more difficult, shall we?");
+		
+		System.out.println("Making conflict2...");
 		
 		System.out.println("Are we there yet?");
 		
